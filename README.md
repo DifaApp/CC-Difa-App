@@ -21,9 +21,9 @@
   
   1. Make a GCP Project
   2. Configure IAM and Admin
-  3. Make dataset a bucket on Cloud Storage and MySql
-  4. Install the cloud SDK
-  5. Make an API for gallery
+  3. Install the cloud SDK
+  4. Make an API
+  5. Make database MySql
   6. Make a Node.js for Cloud Run
   7. Build a Dockerfile
   8. Deploy using Cloud Run
